@@ -6,13 +6,13 @@
 </p>
 
 ## Features
-* Weather page- get yoy know the current humidity, temperature and wind speed .
+* Weather page- get you know about the current humidity, temperature and wind speed of any city just by searching in the input box.
  <p  align="center">
 <img  alt="handreacting_image"  src="./public/images/aj01.png"  width="100%"  />
 </p><br>
 
 ## Earth page
-*Beautiful website by blueyesnet. Get you know about the weather of any place aroound the Earth just by placing cursor on the place on globe.
+*Beautiful website by blueyesnet which get you know about the weather of any place aroound the Earth just by placing cursor on the place on globe.
 <p  align="center">
 <img  alt="handreacting_image"  src="./public/images/aj02.png"  width="100%"  />
 </p><br>
