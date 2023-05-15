@@ -1,6 +1,6 @@
 # Weatherly 
 ### A weather app build in expressJs using handlebars as a template engine.
-<br><br><br>
+<br><br>
 
   
   
@@ -19,13 +19,14 @@
 <img  alt="handreacting_image"  src="./public/images/aj01.png"  width="100%"  />
 
 </p>
+<br>
 
-* Earth page- Beautiful website by blueyesnet. Get you know about the weather of any place aroound the Earth just by placing cursor on the place on globe.
+## Earth page- Beautiful website by blueyesnet. Get you know about the weather of any place aroound the Earth just by placing cursor on the place on globe.
 *<p  align="center">
 
 <img  alt="handreacting_image"  src="./public/images/aj02.png"  width="100%"  />
 </p>
-
+<br>
 
 ## Prerequisites
 
