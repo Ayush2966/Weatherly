@@ -7,7 +7,7 @@
 
 <p  align="center">
 
-<img  alt="handreacting_image"  src="./src/media/read.svg"  width="250px"  />
+<img  alt="handreacting_image"  src="./public/images/aj02.png"  width="250px"  />
 
 </p>
 
