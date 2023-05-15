@@ -12,7 +12,7 @@
 </p><br>
 
 ## Earth page
-*Beautiful website by blueyesnet which get you know about the weather of any place aroound the Earth just by placing cursor on the place on globe.
+* Beautiful website by blueyesnet which get you know about the weather of any place aroound the Earth just by placing cursor on the place on globe.
 <p  align="center">
 <img  alt="handreacting_image"  src="./public/images/aj02.png"  width="100%"  />
 </p><br>
