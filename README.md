@@ -16,7 +16,7 @@
 <p  align="center">
 <img  alt="handreacting_image"  src="./public/images/aj02.png"  width="100%"  />
 </p><br>
-<img  alt="handreacting_image"  src=".public/images/Screenshot 2023-05-16 100607.png"  width="100%"  />
+<img  alt="handreacting_image"  src="./public/images/Screenshot 2023-05-16 100607.png"  width="100%"  />
 <br>
 
 
